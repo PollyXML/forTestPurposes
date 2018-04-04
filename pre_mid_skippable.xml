@@ -1,7 +1,7 @@
 
 <vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
-<vmap:AdBreak timeOffset="start" breakType="linear" breakId="preroll">
-<vmap:AdSource id="preroll-ad-1" allowMultipleAds="true" followRedirects="true">
+<vmap:AdBreak timeOffset="00:00:15.000" breakType="linear" breakId="midroll-1">
+<vmap:AdSource id="midroll-1-ads" allowMultipleAds="true" followRedirects="true">
 <vmap:AdTagURI templateType="vast3">
 <![CDATA[
 https://raw.githubusercontent.com/PollyXML/forTestPurposes/master/skippable_ima2.xml
@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/PollyXML/forTestPurposes/master/skippable_ima2
 </vmap:AdSource>
 </vmap:AdBreak>
 <vmap:AdBreak timeOffset="00:00:15.000" breakType="linear" breakId="midroll-1">
-<vmap:AdSource id="midroll-1-ads" allowMultipleAds="true" followRedirects="true">
+<vmap:AdSource id="midroll-2-ads" allowMultipleAds="true" followRedirects="true">
 <vmap:AdTagURI templateType="vast3">
 <![CDATA[
 http://pubads.g.doubleclick.net/gampad/ads?sz=640x360&iu=/6062/iab_vast_samples/skippable&ciu_szs=300x250,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&url=__page-url__&correlator=__timestamp__
