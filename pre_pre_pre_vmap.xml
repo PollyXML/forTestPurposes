@@ -3,7 +3,7 @@
 <vmap:AdSource id="preroll-ad-1" allowMultipleAds="true" followRedirects="true">
 <vmap:AdTagURI templateType="vast3">
 <![CDATA[
-https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/124319096/external/single_ad_samples&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&cust_params=deployment%3Ddevsite%26sample_ct%3Dskippablelinear&correlator=1522758928
+https://raw.githubusercontent.com/PollyXML/forTestPurposes/master/skippable_ima.xml
 ]]>
 </vmap:AdTagURI>
 </vmap:AdSource>
@@ -13,15 +13,6 @@ https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/124319096/external/si
 <vmap:AdTagURI templateType="vast3">
 <![CDATA[
 http://pubads.g.doubleclick.net/gampad/ads?sz=640x360&iu=/6062/iab_vast_samples/skippable&ciu_szs=300x250,728x90&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&url=__page-url__&correlator=__timestamp__
-]]>
-</vmap:AdTagURI>
-</vmap:AdSource>
-</vmap:AdBreak>
-<vmap:AdBreak timeOffset="start" breakType="linear" breakId="preroll">
-<vmap:AdSource id="preroll-ad-3" allowMultipleAds="true" followRedirects="true">
-<vmap:AdTagURI templateType="vast3">
-<![CDATA[
-https://raw.githubusercontent.com/PollyXML/forTestPurposes/master/skippable_ima.xml
 ]]>
 </vmap:AdTagURI>
 </vmap:AdSource>
