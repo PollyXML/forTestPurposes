@@ -123,44 +123,14 @@ https://pubads.g.doubleclick.net/pcs/click?xai=AKAOjssZzRr_Lp8byT9Wtti7eqRTUNztt
 </ClickThrough>
 </VideoClicks>
 <MediaFiles>
-<MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="533" scalable="true" maintainAspectRatio="true">
+<MediaFile id="2" delivery="progressive" type="video/mp4" bitrate="0" width="640" height="360">
 <![CDATA[
-https://redirector.gvt1.com/videoplayback/id/b96674ee53e47835/itag/15/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fmp4/ip/0.0.0.0/ipbits/0/expire/1522859393/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime/signature/7326501D21D3B3EF5BCD7B57C9F255FE2C1142FD.77F7EFDFB74B4F95CAFE3C81755EBBCED05C2E7A/key/ck2/file/file.mp4
+http://content.bitsontherun.com/videos/5jzLPZMW-52qL9xLP.mp4
 ]]>
 </MediaFile>
-<MediaFile id="GDFP" delivery="progressive" width="176" height="144" type="video/3gpp" bitrate="36" scalable="true" maintainAspectRatio="true">
+<MediaFile id="1" delivery="progressive" type="video/webm" bitrate="0" width="640" height="360">
 <![CDATA[
-https://redirector.gvt1.com/videoplayback/id/b96674ee53e47835/itag/17/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2F3gpp/ip/0.0.0.0/ipbits/0/expire/1522859393/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime/signature/406E3C002D5D501664E514806EC578516BE77241.1985D95174FF2180CE53DBCB15D2CE481DAFF12B/key/ck2/file/file.3gp
-]]>
-</MediaFile>
-<MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="122" scalable="true" maintainAspectRatio="true">
-<![CDATA[
-https://redirector.gvt1.com/videoplayback/id/b96674ee53e47835/itag/18/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fmp4/ip/0.0.0.0/ipbits/0/expire/1522859393/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime/signature/47045D76335C10B9BA0957D4A04CC93348819858.4018116CED0C1D747000C297E30306742E254309/key/ck2/file/file.mp4
-]]>
-</MediaFile>
-<MediaFile id="GDFP" delivery="progressive" width="320" height="180" type="video/3gpp" bitrate="74" scalable="true" maintainAspectRatio="true">
-<![CDATA[
-https://redirector.gvt1.com/videoplayback/id/b96674ee53e47835/itag/36/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2F3gpp/ip/0.0.0.0/ipbits/0/expire/1522859393/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime/signature/578017B72B414A3D13D575EE2939F6904ED8E6BC.AAA8FC1FEC9D2851C0077BFD5B39D8AE0A7F5A36/key/ck2/file/file.3gp
-]]>
-</MediaFile>
-<MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/webm" bitrate="125" scalable="true" maintainAspectRatio="true">
-<![CDATA[
-https://redirector.gvt1.com/videoplayback/id/b96674ee53e47835/itag/43/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fwebm/ip/0.0.0.0/ipbits/0/expire/1522859393/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime/signature/93A1049C4A264B7415AD2CD4A373E39302459B35.A4D4B02C6517C0FCE42BCEF571627AE58FC317F8/key/ck2/file/file.webm
-]]>
-</MediaFile>
-<MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="252" scalable="true" maintainAspectRatio="true">
-<![CDATA[
-https://redirector.gvt1.com/videoplayback/id/b96674ee53e47835/itag/22/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fmp4/ip/0.0.0.0/ipbits/0/expire/1522859393/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime/signature/2A278CBA96EEE536A5B1477E0E8A5FB4A8D25568.36FBAC02BEEFBF664ECD5475F4337CDF6E0857A7/key/ck2/file/file.mp4
-]]>
-</MediaFile>
-<MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/webm" bitrate="245" scalable="true" maintainAspectRatio="true">
-<![CDATA[
-https://redirector.gvt1.com/videoplayback/id/b96674ee53e47835/itag/45/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fwebm/ip/0.0.0.0/ipbits/0/expire/1522859393/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime/signature/0C7503F4BE6BD5FA14ECFC0AA48D749A9F512A53.5F5F042133A75ADF9241971DEB084E9B90D9D6F8/key/ck2/file/file.webm
-]]>
-</MediaFile>
-<MediaFile id="GDFP" delivery="progressive" width="854" height="480" type="video/webm" bitrate="139" scalable="true" maintainAspectRatio="true">
-<![CDATA[
-https://redirector.gvt1.com/videoplayback/id/b96674ee53e47835/itag/44/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fwebm/ip/0.0.0.0/ipbits/0/expire/1522859393/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime/signature/0A68867135C5B504E3E8D526E59D3C575478C18D.279AB38E849B6D9857E2A31F3AF9004FEEBE5EEF/key/ck2/file/file.webm
+http://content.bitsontherun.com/videos/5jzLPZMW-27m5HpIu.webm
 ]]>
 </MediaFile>
 </MediaFiles>
