@@ -12,7 +12,7 @@ https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/124319096/external/si
 <vmap:AdSource id="postroll-1-ad-2" allowMultipleAds="false" followRedirects="true">
 <vmap:AdTagURI templateType="vast3">
 <![CDATA[
-https://raw.githubusercontent.com/PollyXML/forTestPurposes/master/skippable_ima.xml
+http://playertest.longtailvideo.com/adtags/preroll_newer.xml
 ]]>
 </vmap:AdTagURI>
 </vmap:AdSource>
