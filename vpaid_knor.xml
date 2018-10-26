@@ -1,0 +1,25 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast_2.0.1-creativeView.xsd" version="2.0">
+<Ad id="moat_ad">
+<InLine>
+<AdSystem>2.0</AdSystem>
+<AdTitle>
+Knorr_-_Hummingbird_CN001249_Mar2018_Video-24466031
+</AdTitle>
+<Impression/>
+<Creatives>
+<Creative>
+<Linear>
+<Duration>00:00:15</Duration>
+<MediaFiles>
+<MediaFile type="application/javascript" apiFramework="VPAID" height="576" width="1024" delivery="progressive">
+<![CDATA[
+https://svastx.moatads.com/mindshareunileverswitzerlandvpaid823416812939/moatwrapper.js#vast=https%3a%2f%2fbs.serving-sys.com%2fServing%3fcn%3ddisplay%26c%3d23%26pl%3dVAST%26pli%3d24466031%26PluID%3d0%26pos%3d1654%26ord%3d274521145%26cim%3d1&level1=867447&level2=Goldbachmedia%20Audience%20CH%20-%20Run%20of%20Network&level3=24466031&level4=vpaid&slicer1=undefined&slicer2=undefined&pcode=mindshareunileverswitzerlandvpaid823416812939&spvb=1
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
