@@ -1,0 +1,786 @@
+<vmap:VMAP xmlns:vmap="http://www.iab.net/vmap-1.0" version="1.0">
+<vmap:AdBreak breakId="cue_point-833925741" breakType="linear" timeOffset="00:08:01">
+<vmap:AdSource allowMultipleAds="true" followRedirects="true" id="1">
+<vmap:VASTAdData>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:noNamespaceSchemaLocation="vast.xsd">
+<Ad id="27920282.140636611344128" sequence="1">
+<InLine>
+<AdSystem>FreeWheel</AdSystem>
+<AdTitle>JWP Promo Test</AdTitle>
+<Error>
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920282&reid=10701165&arid=0&iw=&uxnw=&uxss=&uxct=&et=e&cn=%5BERRORCODE%5D
+]]>
+</Error>
+<Impression id="FWi_27920282.0">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920282&reid=10701165&arid=0&auid=&cn=defaultImpression&et=i&_cc=27920282,10701165,,32357.,1541795758,1&tpos=481&iw=&uxnw=&uxss=&uxct=&metr=959&init=1&cr=
+]]>
+</Impression>
+<Creatives>
+<Creative AdID="27920282" id="3735786">
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="complete">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920282&reid=10701165&arid=0&auid=&cn=complete&et=i&_cc=&tpos=481&init=1&iw=&uxnw=&uxss=&uxct=&metr=959
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920282&reid=10701165&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=481&init=1&iw=&uxnw=&uxss=&uxct=&metr=959
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920282&reid=10701165&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=481&init=1&iw=&uxnw=&uxss=&uxct=&metr=959
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920282&reid=10701165&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=481&init=1&iw=&uxnw=&uxss=&uxct=&metr=959&kv=_fw_impression_map%3D4279
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920282&reid=10701165&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=481
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920282&reid=10701165&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=481
+]]>
+</Tracking>
+<Tracking event="collapse">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920282&reid=10701165&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=481
+]]>
+</Tracking>
+<Tracking event="expand">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920282&reid=10701165&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=481
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920282&reid=10701165&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=481
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920282&reid=10701165&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=481
+]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920282&reid=10701165&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=481
+]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920282&reid=10701165&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=481
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920282&reid=10701165&arid=0&auid=&cn=_close&et=s&_cc=&tpos=481
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickTracking id="FWc_27920282.0">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920282&reid=10701165&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=481&cr=
+]]>
+</ClickTracking>
+</VideoClicks>
+<MediaFiles>
+<MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="0" width="640" height="360">
+<![CDATA[
+https://content.jwplatform.com/videos/5jzLPZMW-kNspJqnJ.mp4
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
+</vmap:VASTAdData>
+</vmap:AdSource>
+<vmap:TrackingEvents>
+<vmap:Tracking event="breakStart">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&cn=slotImpression&et=i&tpos=481&init=1&slid=4,5,6,7,8
+]]>
+</vmap:Tracking>
+<vmap:Tracking event="breakEnd">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&cn=slotEnd&et=i&tpos=481&init=1&slid=4,5,6,7,8
+]]>
+</vmap:Tracking>
+</vmap:TrackingEvents>
+</vmap:AdBreak>
+<vmap:AdBreak breakId="0.0.0.2138787950" breakType="linear" timeOffset="start">
+<vmap:AdSource allowMultipleAds="true" followRedirects="true" id="2">
+<vmap:VASTAdData>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:noNamespaceSchemaLocation="vast.xsd">
+<Ad id="27920091.140634672441344" sequence="1">
+<InLine>
+<AdSystem>FreeWheel</AdSystem>
+<AdTitle>One-Time FREQ-CAP COMM Placement</AdTitle>
+<Error>
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&iw=&uxnw=&uxss=&uxct=&absid=10137&trigid=53&et=e&cn=%5BERRORCODE%5D
+]]>
+</Error>
+<Impression id="FWi_27920091.0">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=8192&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=defaultImpression&et=i&_cc=27920091,10988197,,32357.,1541795758,1&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&init=1&asid=126772045&ssid=1745381&pingids=281,282&cr=
+]]>
+</Impression>
+<Impression id="FWi_27920091.0.1">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=0&ac=1&bq=7&dz=1&f=0&gh=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=76773179&de=76773179&d=670135%3A27920061%3A27920064%3A3734986&bo=g611384&bd=1745381&zMoatSDH=30&zMoatDevice=Android%20Demand5&ott=1&cs=0
+]]>
+</Impression>
+<Impression id="FWi_27920091.0.2">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=0&lo=0&dc=1&ak=-&ac=1&bq=7&as=0&ag=0&an=0&gf=0&gg=0&aj=1&dz=1&ef=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=76773179&de=76773179&d=670135%3A27920061%3A27920064%3A3734986&bo=g611384&bd=1745381&zMoatSDH=30&zMoatDevice=Android%20Demand5&ott=1&cs=0
+]]>
+</Impression>
+<Creatives>
+<Creative AdID="27920091" id="3734986">
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=283
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=1&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&dz=1&ef=3&eg=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=76773179&de=76773179&d=670135%3A27920061%3A27920064%3A3734986&bo=g611384&bd=1745381&zMoatSDH=30&zMoatDevice=Android%20Demand5&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=284
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=2&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=76773179&de=76773179&d=670135%3A27920061%3A27920064%3A3734986&bo=g611384&bd=1745381&zMoatSDH=30&zMoatDevice=Android%20Demand5&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=285&absid=10137&trigid=53&kv=_fw_impression_map%3D4279
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=3&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=76773179&de=76773179&d=670135%3A27920061%3A27920064%3A3734986&bo=g611384&bd=1745381&zMoatSDH=30&zMoatDevice=Android%20Demand5&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=286
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=4&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&ej=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=76773179&de=76773179&d=670135%3A27920061%3A27920064%3A3734986&bo=g611384&bd=1745381&zMoatSDH=30&zMoatDevice=Android%20Demand5&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="collapse">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="expand">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickTracking id="FWc_27920091.0">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=
+]]>
+</ClickTracking>
+</VideoClicks>
+<MediaFiles>
+<MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="0" width="640" height="360">
+<![CDATA[
+https://content.jwplatform.com/videos/Wf8BfcSt-kNspJqnJ.mp4
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+<Ad id="27920091.140634672441344" sequence=“2”>
+<InLine>
+<AdSystem>FreeWheel</AdSystem>
+<AdTitle>One-Time FREQ-CAP COMM Placement</AdTitle>
+<Error>
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&iw=&uxnw=&uxss=&uxct=&absid=10137&trigid=53&et=e&cn=%5BERRORCODE%5D
+]]>
+</Error>
+<Impression id="FWi_27920091.0">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=8192&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=defaultImpression&et=i&_cc=27920091,10988197,,32357.,1541795758,1&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&init=1&asid=126772045&ssid=1745381&pingids=281,282&cr=
+]]>
+</Impression>
+<Impression id="FWi_27920091.0.1">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=0&ac=1&bq=7&dz=1&f=0&gh=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=76773179&de=76773179&d=670135%3A27920061%3A27920064%3A3734986&bo=g611384&bd=1745381&zMoatSDH=30&zMoatDevice=Android%20Demand5&ott=1&cs=0
+]]>
+</Impression>
+<Impression id="FWi_27920091.0.2">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=0&lo=0&dc=1&ak=-&ac=1&bq=7&as=0&ag=0&an=0&gf=0&gg=0&aj=1&dz=1&ef=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=76773179&de=76773179&d=670135%3A27920061%3A27920064%3A3734986&bo=g611384&bd=1745381&zMoatSDH=30&zMoatDevice=Android%20Demand5&ott=1&cs=0
+]]>
+</Impression>
+<Creatives>
+<Creative AdID="27920091" id="3734986">
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=283
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=1&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&dz=1&ef=3&eg=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=76773179&de=76773179&d=670135%3A27920061%3A27920064%3A3734986&bo=g611384&bd=1745381&zMoatSDH=30&zMoatDevice=Android%20Demand5&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=284
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=2&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=76773179&de=76773179&d=670135%3A27920061%3A27920064%3A3734986&bo=g611384&bd=1745381&zMoatSDH=30&zMoatDevice=Android%20Demand5&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=285&absid=10137&trigid=53&kv=_fw_impression_map%3D4279
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=3&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=76773179&de=76773179&d=670135%3A27920061%3A27920064%3A3734986&bo=g611384&bd=1745381&zMoatSDH=30&zMoatDevice=Android%20Demand5&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=286
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=4&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&ej=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=76773179&de=76773179&d=670135%3A27920061%3A27920064%3A3734986&bo=g611384&bd=1745381&zMoatSDH=30&zMoatDevice=Android%20Demand5&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="collapse">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="expand">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickTracking id="FWc_27920091.0">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=
+]]>
+</ClickTracking>
+</VideoClicks>
+<MediaFiles>
+<MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="0" width="640" height="360">
+<![CDATA[
+https://content.jwplatform.com/videos/Wf8BfcSt-kNspJqnJ.mp4
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+<Ad id="27920091.140634672441344" sequence=“3”>
+<InLine>
+<AdSystem>FreeWheel</AdSystem>
+<AdTitle>One-Time FREQ-CAP COMM Placement</AdTitle>
+<Error>
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&iw=&uxnw=&uxss=&uxct=&absid=10137&trigid=53&et=e&cn=%5BERRORCODE%5D
+]]>
+</Error>
+<Impression id="FWi_27920091.0">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=8192&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=defaultImpression&et=i&_cc=27920091,10988197,,32357.,1541795758,1&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&init=1&asid=126772045&ssid=1745381&pingids=281,282&cr=
+]]>
+</Impression>
+<Impression id="FWi_27920091.0.1">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=0&ac=1&bq=7&dz=1&f=0&gh=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=76773179&de=76773179&d=670135%3A27920061%3A27920064%3A3734986&bo=g611384&bd=1745381&zMoatSDH=30&zMoatDevice=Android%20Demand5&ott=1&cs=0
+]]>
+</Impression>
+<Impression id="FWi_27920091.0.2">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=0&lo=0&dc=1&ak=-&ac=1&bq=7&as=0&ag=0&an=0&gf=0&gg=0&aj=1&dz=1&ef=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=76773179&de=76773179&d=670135%3A27920061%3A27920064%3A3734986&bo=g611384&bd=1745381&zMoatSDH=30&zMoatDevice=Android%20Demand5&ott=1&cs=0
+]]>
+</Impression>
+<Creatives>
+<Creative AdID="27920091" id="3734986">
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=283
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=1&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&dz=1&ef=3&eg=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=76773179&de=76773179&d=670135%3A27920061%3A27920064%3A3734986&bo=g611384&bd=1745381&zMoatSDH=30&zMoatDevice=Android%20Demand5&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=284
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=2&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=76773179&de=76773179&d=670135%3A27920061%3A27920064%3A3734986&bo=g611384&bd=1745381&zMoatSDH=30&zMoatDevice=Android%20Demand5&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=285&absid=10137&trigid=53&kv=_fw_impression_map%3D4279
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=3&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=76773179&de=76773179&d=670135%3A27920061%3A27920064%3A3734986&bo=g611384&bd=1745381&zMoatSDH=30&zMoatDevice=Android%20Demand5&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&pingids=286
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://video.moatads.com/pixel.gif?e=29&q=4&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&ej=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=SKY_OTT_VIDEO1&t=76773179&de=76773179&d=670135%3A27920061%3A27920064%3A3734986&bo=g611384&bd=1745381&zMoatSDH=30&zMoatDevice=Android%20Demand5&ott=1&cs=0
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="collapse">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="expand">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickTracking id="FWc_27920091.0">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920091&reid=10988197&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=
+]]>
+</ClickTracking>
+</VideoClicks>
+<MediaFiles>
+<MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="0" width="640" height="360">
+<![CDATA[
+https://content.jwplatform.com/videos/Wf8BfcSt-kNspJqnJ.mp4
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+<Ad id="27920281.140636611342208" sequence=“4”>
+<InLine>
+<AdSystem>FreeWheel</AdSystem>
+<AdTitle>One-Time FREQ-CAP Promo Placement</AdTitle>
+<Error>
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920281&reid=10701165&arid=0&iw=&uxnw=&uxss=&uxct=&et=e&cn=%5BERRORCODE%5D
+]]>
+</Error>
+<Impression id="FWi_27920281.0">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920281&reid=10701165&arid=0&auid=&cn=defaultImpression&et=i&_cc=27920281,10701165,,32357.,1541795758,1&tpos=0&iw=&uxnw=&uxss=&uxct=&metr=959&init=1&cr=
+]]>
+</Impression>
+<Creatives>
+<Creative AdID="27920281" id="3735786">
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="complete">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920281&reid=10701165&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&init=1&iw=&uxnw=&uxss=&uxct=&metr=959
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920281&reid=10701165&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&init=1&iw=&uxnw=&uxss=&uxct=&metr=959
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920281&reid=10701165&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&init=1&iw=&uxnw=&uxss=&uxct=&metr=959
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920281&reid=10701165&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&init=1&iw=&uxnw=&uxss=&uxct=&metr=959&kv=_fw_impression_map%3D4279
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920281&reid=10701165&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920281&reid=10701165&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="collapse">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920281&reid=10701165&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="expand">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920281&reid=10701165&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920281&reid=10701165&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920281&reid=10701165&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920281&reid=10701165&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920281&reid=10701165&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920281&reid=10701165&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickTracking id="FWc_27920281.0">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920281&reid=10701165&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&cr=
+]]>
+</ClickTracking>
+</VideoClicks>
+<MediaFiles>
+<MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="0" width="640" height="360">
+<![CDATA[
+https://content.jwplatform.com/videos/AEhg3fFb-bPwArWA4.mp4
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
+</vmap:VASTAdData>
+</vmap:AdSource>
+<vmap:TrackingEvents>
+<vmap:Tracking event="breakStart">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&cn=slotImpression&et=i&tpos=0&init=1&slid=0,1,2,3
+]]>
+</vmap:Tracking>
+<vmap:Tracking event="breakEnd">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&cn=slotEnd&et=i&tpos=0&init=1&slid=0,1,2,3
+]]>
+</vmap:Tracking>
+</vmap:TrackingEvents>
+</vmap:AdBreak>
+<vmap:AdBreak breakId="0.1.0.711316560" breakType="linear" timeOffset="end">
+<vmap:AdSource allowMultipleAds="true" followRedirects="true" id="3">
+<vmap:VASTAdData>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:noNamespaceSchemaLocation="vast.xsd">
+<Ad id="27920283.140636611345408" sequence="1">
+<InLine>
+<AdSystem>FreeWheel</AdSystem>
+<AdTitle>One-Time FREQ-CAP Promo Placement</AdTitle>
+<Error>
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920283&reid=10701165&arid=0&iw=&uxnw=&uxss=&uxct=&et=e&cn=%5BERRORCODE%5D
+]]>
+</Error>
+<Impression id="FWi_27920283.0">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920283&reid=10701165&arid=0&auid=&cn=defaultImpression&et=i&_cc=27920283,10701165,,32357.,1541795758,1&tpos=1322&iw=&uxnw=&uxss=&uxct=&metr=959&init=1&cr=
+]]>
+</Impression>
+<Creatives>
+<Creative AdID="27920283" id="3735786">
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="complete">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920283&reid=10701165&arid=0&auid=&cn=complete&et=i&_cc=&tpos=1322&init=1&iw=&uxnw=&uxss=&uxct=&metr=959
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920283&reid=10701165&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=1322&init=1&iw=&uxnw=&uxss=&uxct=&metr=959
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920283&reid=10701165&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=1322&init=1&iw=&uxnw=&uxss=&uxct=&metr=959
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920283&reid=10701165&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=1322&init=1&iw=&uxnw=&uxss=&uxct=&metr=959&kv=_fw_impression_map%3D4279
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920283&reid=10701165&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=1322
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920283&reid=10701165&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=1322
+]]>
+</Tracking>
+<Tracking event="collapse">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920283&reid=10701165&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=1322
+]]>
+</Tracking>
+<Tracking event="expand">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920283&reid=10701165&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=1322
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920283&reid=10701165&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=1322
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920283&reid=10701165&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=1322
+]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920283&reid=10701165&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=1322
+]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920283&reid=10701165&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=1322
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920283&reid=10701165&arid=0&auid=&cn=_close&et=s&_cc=&tpos=1322
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickTracking id="FWc_27920283.0">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&r=380990&adid=27920283&reid=10701165&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=1322&cr=
+]]>
+</ClickTracking>
+</VideoClicks>
+<MediaFiles>
+<MediaFile bitrate="407" delivery="progressive" height="270" id="10701165" type="video/mp4" width="480">
+<![CDATA[
+https://c5ads-stage.ott.skymedia.co.uk/2018/07/7065/c5-mp4/7065_c5-mp4-2.mp4
+]]>
+</MediaFile>
+<MediaFile bitrate="904" delivery="progressive" height="360" id="10701166" type="video/mp4" width="640">
+<![CDATA[
+https://c5ads-stage.ott.skymedia.co.uk/2018/07/7065/c5-mp4/7065_c5-mp4-3.mp4
+]]>
+</MediaFile>
+<MediaFile bitrate="1611" delivery="progressive" height="468" id="10701167" type="video/mp4" width="832">
+<![CDATA[
+https://c5ads-stage.ott.skymedia.co.uk/2018/07/7065/c5-mp4/7065_c5-mp4-4.mp4
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
+</vmap:VASTAdData>
+</vmap:AdSource>
+<vmap:TrackingEvents>
+<vmap:Tracking event="breakStart">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&cn=slotImpression&et=i&tpos=1322&init=1&slid=9,10,11,12
+]]>
+</vmap:Tracking>
+<vmap:Tracking event="breakEnd">
+<![CDATA[
+https://jwpqatest.com/ad/l/1?s=g054&n=380990%3B380990%3B384938&t=1541795758257893019&f=&cn=slotEnd&et=i&tpos=1322&init=1&slid=9,10,11,12
+]]>
+</vmap:Tracking>
+</vmap:TrackingEvents>
+</vmap:AdBreak>
+</vmap:VMAP>
