@@ -1,0 +1,20 @@
+<vmap:VMAP xmlns:vmap="//www.iab.net/vmap-1.0" version="1.0">
+<vmap:AdBreak breakType="linear" breakId="midrolls2" timeOffset="00:00:15.125">
+<vmap:AdSource allowMultipleAds="true" followRedirects="true" id="2">
+<AdTagURI templateType="vast3">
+<![CDATA[ http://playertest.longtailvideo.com/assets/vast/3/vast3-adpods-no-webm.xml ]]>
+</AdTagURI>
+</vmap:AdSource>
+<vmap:TrackingEvents>
+<vmap:Tracking event="breakStart">
+<![CDATA[ //test.videostrip.com/vmap/breakstart3.xml ]]>
+</vmap:Tracking>
+<vmap:Tracking event="breakEnd">
+<![CDATA[ //test.videostrip.com/vmap/breakend3.xml ]]>
+</vmap:Tracking>
+<vmap:Tracking event="error">
+<![CDATA[ //test.videostrip.com/vmap/breakerror3.xml ]]>
+</vmap:Tracking>
+</vmap:TrackingEvents>
+</vmap:AdBreak>
+</vmap:VMAP>
