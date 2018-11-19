@@ -1,0 +1,20 @@
+<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+<vmap:AdBreak timeOffset="00:00:15.000" breakType="linear" breakId="midroll-1">
+<vmap:AdSource id="midroll-1-ad-1" allowMultipleAds="false" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[
+http://playertest.longtailvideo.com/adtags/static_404.xml
+]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+<vmap:AdBreak timeOffset="00:00:30.000" breakType="linear" breakId="midroll-2">
+<vmap:AdSource id="midroll-1-ad-1" allowMultipleAds="false" followRedirects="true">
+<vmap:AdTagURI templateType="vast3">
+<![CDATA[
+http://playertest.longtailvideo.com/adtags/static_408.xml
+]]>
+</vmap:AdTagURI>
+</vmap:AdSource>
+</vmap:AdBreak>
+</vmap:VMAP>
