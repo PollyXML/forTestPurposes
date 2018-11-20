@@ -1,11 +1,11 @@
 <vmap:VMAP xmlns:vmap="http://www.iab.net/vmap-1.0" version="1.0">
 <vmap:AdBreak breakType="linear" breakId="midrolls" timeOffset="00:00:10.125">
 <vmap:AdSource allowMultipleAds="true" followRedirects="true" id="1">
-<AdTagURI templateType="vast2">
+<vmap:AdTagURI templateType="vast3">
 <![CDATA[
 http://playertest.longtailvideo.com/adtags/bad-xml.xml
 ]]>
-</AdTagURI>
+</vmap:AdTagURI>
 </vmap:AdSource>
 <vmap:TrackingEvents>
 <vmap:Tracking event="breakStart">
