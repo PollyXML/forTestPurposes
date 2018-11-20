@@ -1,0 +1,96 @@
+<vmap:VMAP xmlns:vmap="http://www.iab.net/vmap-1.0" version="1.0">
+<vmap:AdBreak breakType="linear" breakId="prerolls" timeOffset="start">
+<vmap:AdSource allowMultipleAds="true" followRedirects="true" id="1">
+<VASTData>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="2.0">
+<Ad id="1">
+<InLine>
+<AdSystem>GDFP</AdSystem>
+<AdTitle>video</AdTitle>
+<Description>video ad</Description>
+<Error>
+<![CDATA[
+http://example.com/ad/error/?label=videoplayfailed&code=[ERRORCODE]&vast=1
+]]>
+</Error>
+<Impression>
+<![CDATA[ http://example.com/ad/view ]]>
+</Impression>
+<Creatives>
+<Creative>
+<Linear>
+<Duration>00:00:10.6</Duration>
+<MediaFiles>
+<MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="0" width="640" height="360">
+<![CDATA[
+http://content.bitsontherun.com/videos/notarealurl.mp4
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
+</VASTData>
+</vmap:AdSource>
+<vmap:TrackingEvents>
+<vmap:Tracking event="breakStart">
+<![CDATA[ http://test.videostrip.com/vmap/breakstart2.xml ]]>
+</vmap:Tracking>
+<vmap:Tracking event="breakEnd">
+<![CDATA[ http://test.videostrip.com/vmap/breakend2.xml ]]>
+</vmap:Tracking>
+<vmap:Tracking event="error">
+<![CDATA[
+http://test.videostrip.com/vmap/breakerror2.xml?code=[ERRORCODE]
+]]>
+</vmap:Tracking>
+</vmap:TrackingEvents>
+</vmap:AdBreak>
+<vmap:AdBreak breakType="linear" breakId="midrolls2" timeOffset="50%">
+<vmap:AdSource allowMultipleAds="true" followRedirects="true" id="2">
+<AdTagURI templateType="vast2">
+<![CDATA[
+http://playertest.longtailvideo.com/adtags/static_404.xml
+]]>
+</AdTagURI>
+</vmap:AdSource>
+<vmap:TrackingEvents>
+<vmap:Tracking event="breakStart">
+<![CDATA[ http://test.videostrip.com/vmap/breakstart3.xml ]]>
+</vmap:Tracking>
+<vmap:Tracking event="breakEnd">
+<![CDATA[ http://test.videostrip.com/vmap/breakend3.xml ]]>
+</vmap:Tracking>
+<vmap:Tracking event="error">
+<![CDATA[
+http://test.videostrip.com/vmap/breakerror3.xml?code=[ERRORCODE]
+]]>
+</vmap:Tracking>
+</vmap:TrackingEvents>
+</vmap:AdBreak>
+<vmap:AdBreak breakType="linear" breakId="postroll" timeOffset="end">
+<vmap:AdSource allowMultipleAds="true" followRedirects="true" id="2">
+<AdTagURI templateType="vast2">
+<![CDATA[
+http://playertest.longtailvideo.com/adtags/bad-xml.xml
+]]>
+</AdTagURI>
+</vmap:AdSource>
+<vmap:TrackingEvents>
+<vmap:Tracking event="breakStart">
+<![CDATA[ http://test.videostrip.com/vmap/breakstart4.xml ]]>
+</vmap:Tracking>
+<vmap:Tracking event="breakEnd">
+<![CDATA[ http://test.videostrip.com/vmap/breakend4.xml ]]>
+</vmap:Tracking>
+<vmap:Tracking event="error">
+<![CDATA[
+http://test.videostrip.com/vmap/breakerror4.xml?code=[ERRORCODE]
+]]>
+</vmap:Tracking>
+</vmap:TrackingEvents>
+</vmap:AdBreak>
+</vmap:VMAP>
