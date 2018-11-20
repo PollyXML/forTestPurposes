@@ -1,0 +1,79 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:noNamespaceSchemaLocation="vast.xsd">
+<Ad id="232859236">
+<InLine>
+<AdSystem version="2.0">Alex_Vast</AdSystem>
+<AdTitle>JW Test Preroll</AdTitle>
+<Description/>
+<Survey/>
+<Impression id="DART">
+<![CDATA[ http://qa.jwplayer.com/~alex/pixel.gif?2 ]]>
+</Impression>
+<Creatives>
+<Creative sequence="1" AdID="">
+<Linear>
+<Duration>00:00:60</Duration>
+<AdParameters/>
+<MediaFiles>
+<VideoFile id="1" delivery="progressive" type="video/mp4" bitrate="0" width="640" height="360">
+<![CDATA[
+http://content.jwplatform.com/videos/zz4Abp0Z-bPwArWA4.mp4
+]]>
+</VideoFile>
+<MediaFile id="2" delivery="progressive" type="video/mp4" bitrate="0" width="640" height="360">
+<![CDATA[
+http://content.jwplatform.com/videos/zz4Abp0Z-bPwArWA4.mp4
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+<Creative AdID="601364-Companion">
+<CompanionAds>
+<Companion id="0" width="300" height="250">
+<StaticResource creativeType="application/x-shockwave-flash">
+<![CDATA[
+http://qa.jwplayer.com/~alex/300x250_companion_1.swf
+]]>
+</StaticResource>
+<TrackingEvents>
+<Tracking event="creativeView">http://myTrackingURL/firstCompanion</Tracking>
+</TrackingEvents>
+<CompanionClickThrough>http://www.tremormedia.com</CompanionClickThrough>
+</Companion>
+<Companion id="1" width="300" height="250">
+<StaticResource creativeType="image/jpeg">
+<![CDATA[ http://qa.jwplayer.com/~alex/pre_300X250.jpg ]]>
+</StaticResource>
+<CompanionClickThrough>
+<![CDATA[ http://www.jwplayer.com/ ]]>
+</CompanionClickThrough>
+<AltText/>
+<AdParameters/>
+</Companion>
+<Companion id="2" width="728" height="90">
+<StaticResource creativeType="image/jpeg">
+<![CDATA[ http://qa.jwplayer.com/~alex/pre_728X90.jpg ]]>
+</StaticResource>
+<CompanionClickThrough>
+<![CDATA[ http://www.jwplayer.com/ ]]>
+</CompanionClickThrough>
+<AltText/>
+<AdParameters/>
+</Companion>
+</CompanionAds>
+</Creative>
+</Creatives>
+<Extensions>
+<Extension type="DART">
+<AdServingData>
+<DeliveryData>
+<GeoData>
+<![CDATA[ ct=US&st=NY&ac=212&zp=10021&bw=3&dma=3&city=13275 ]]>
+</GeoData>
+</DeliveryData>
+</AdServingData>
+</Extension>
+</Extensions>
+</InLine>
+</Ad>
+</VAST>
