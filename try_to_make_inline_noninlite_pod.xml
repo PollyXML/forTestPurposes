@@ -1,0 +1,158 @@
+<VAST xmlns:xsi="//www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:noNamespaceSchemaLocation="vast3_draft.xsd">
+<Ad id="preroll-1" sequence="2">
+<InLine>
+<AdSystem version="2.0">Alex_Vast</AdSystem>
+<AdTitle/>
+<Description/>
+<Survey/>
+<Error>
+<![CDATA[ //qa.jwplayer.com/~alex/pixel.gif?err=[ERRORCODE] ]]>
+</Error>
+<Impression id="DART">
+<![CDATA[ //qa.jwplayer.com/~alex/pixel.gif?2 ]]>
+</Impression>
+<Creatives>
+<Creative sequence="1" AdID="">
+<Linear skipoffset="00:00:03">
+<Duration>00:00:10</Duration>
+<TrackingEvents>
+<Tracking event="start">//qa.jwplayer.com/~alex/pixel.gif?1</Tracking>
+ <!--
+ Invalid, use 'Impression' element: <Tracking event="impression">//qa.jwplayer.com/~alex/pixel.gif?2</Tracking> 
+-->
+<Tracking event="firstQuartile">//qa.jwplayer.com/~alex/pixel.gif?3</Tracking>
+<Tracking event="midpoint">//qa.jwplayer.com/~alex/pixel.gif?4</Tracking>
+<Tracking event="thirdQuartile">//qa.jwplayer.com/~alex/pixel.gif?5</Tracking>
+<Tracking event="complete">//qa.jwplayer.com/~alex/pixel.gif?6</Tracking>
+<Tracking event="pause">//qa.jwplayer.com/~alex/pixel.gif?7</Tracking>
+<Tracking event="mute">//qa.jwplayer.com/~alex/pixel.gif?8</Tracking>
+<Tracking event="fullscreen">//qa.jwplayer.com/~alex/pixel.gif?9</Tracking>
+</TrackingEvents>
+<AdParameters/>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ //www.jwplayer.com/ ]]>
+</ClickThrough>
+<ClickTracking id="Alex">
+<![CDATA[ //qa.jwplayer.com/~alex/pixel.gif?10 ]]>
+</ClickTracking>
+</VideoClicks>
+<MediaFiles>
+<MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="0" width="640" height="360">
+<![CDATA[
+//content.bitsontherun.com/videos/1EI2jHpo-52qL9xLP.mp4
+]]>
+</MediaFile>
+<MediaFile id="2" delivery="progressive" type="video/webm" bitrate="0" width="640" height="360">
+<![CDATA[
+//content.bitsontherun.com/videos/1EI2jHpo-27m5HpIu.webm
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+<Creative AdID="601364-Companion">
+<CompanionAds>
+<Companion id="0" width="300" height="250">
+<StaticResource creativeType="application/x-shockwave-flash">
+<![CDATA[ //qa.jwplayer.com/~alex/300x250_companion_1.swf ]]>
+</StaticResource>
+<TrackingEvents>
+<Tracking event="creativeView">//myTrackingURL/firstCompanion</Tracking>
+</TrackingEvents>
+<CompanionClickThrough>//www.tremormedia.com</CompanionClickThrough>
+</Companion>
+<Companion id="1" width="300" height="250">
+<StaticResource creativeType="image/jpeg">
+<![CDATA[ //qa.jwplayer.com/~alex/pre_300X250.jpg ]]>
+</StaticResource>
+<CompanionClickThrough>
+<![CDATA[ //www.jwplayer.com/ ]]>
+</CompanionClickThrough>
+<AltText/>
+<AdParameters/>
+</Companion>
+<Companion id="2" width="728" height="90">
+<StaticResource creativeType="image/jpeg">
+<![CDATA[ //qa.jwplayer.com/~alex/pre_728X90.jpg ]]>
+</StaticResource>
+<CompanionClickThrough>
+<![CDATA[ //www.jwplayer.com/ ]]>
+</CompanionClickThrough>
+<AltText/>
+<AdParameters/>
+</Companion>
+</CompanionAds>
+</Creative>
+</Creatives>
+<Extensions>
+<Extension type="DART">
+<AdServingData>
+<DeliveryData>
+<GeoData>
+<![CDATA[ ct=US&st=NY&ac=212&zp=10021&bw=3&dma=3&city=13275 ]]>
+</GeoData>
+</DeliveryData>
+</AdServingData>
+</Extension>
+</Extensions>
+</InLine>
+</Ad>
+<Ad id="preroll-1" sequence="1">
+<InLine>
+<AdSystem>Acudeo Compatible</AdSystem>
+<AdTitle>NonLinear Test Campaign 1</AdTitle>
+<Description>NonLinear Test Campaign 1</Description>
+<Survey>//mySurveyURL/survey</Survey>
+<Error>//myErrorURL/error</Error>
+<Impression>//myTrackingURL/impression</Impression>
+<Creatives>
+<Creative AdID="602678-NonLinear">
+<NonLinearAds>
+<TrackingEvents>
+<Tracking event="creativeView">//myTrackingURL/nonlinear/creativeView</Tracking>
+<Tracking event="expand">//myTrackingURL/nonlinear/expand</Tracking>
+<Tracking event="collapse">//myTrackingURL/nonlinear/collapse</Tracking>
+<Tracking event="acceptInvitation">//myTrackingURL/nonlinear/acceptInvitation</Tracking>
+<Tracking event="close">//myTrackingURL/nonlinear/close</Tracking>
+</TrackingEvents>
+<NonLinear height="50" width="300" minSuggestedDuration="00:00:07">
+<StaticResource creativeType="image/jpeg">
+//demo.tremormedia.com/proddev/vast/50x300_static.jpg
+</StaticResource>
+<NonLinearClickThrough>//www.tremormedia.com</NonLinearClickThrough>
+</NonLinear>
+<NonLinear height="50" width="450" minSuggestedDuration="00:00:20">
+<StaticResource creativeType="image/jpeg">
+//demo.tremormedia.com/proddev/vast/50x450_static.jpg
+</StaticResource>
+<NonLinearClickThrough>//www.tremormedia.com</NonLinearClickThrough>
+</NonLinear>
+</NonLinearAds>
+</Creative>
+<Creative AdID="602678-Companion">
+<CompanionAds>
+<Companion width="300" height="250">
+<StaticResource creativeType="application/x-shockwave-flash">
+//qa.longtailvideo.com/~alex/300x250_companion_1.swf
+</StaticResource>
+<TrackingEvents>
+<Tracking event="creativeView">//myTrackingURL/firstCompanion</Tracking>
+</TrackingEvents>
+<CompanionClickThrough>//www.tremormedia.com</CompanionClickThrough>
+</Companion>
+<Companion width="728" height="90">
+<StaticResource creativeType="image/jpeg">
+//demo.tremormedia.com/proddev/vast/728x90_banner1.jpg
+</StaticResource>
+<TrackingEvents>
+<Tracking event="creativeView">//myTrackingURL/secondCompanion</Tracking>
+</TrackingEvents>
+<CompanionClickThrough>//www.tremormedia.com</CompanionClickThrough>
+</Companion>
+</CompanionAds>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
